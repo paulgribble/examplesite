@@ -1,7 +1,5 @@
 # examplesite
-an example website using bootstrap
-
-preview at [https://gribblelab.org/examplesite/](https://gribblelab.org/examplesite/)
+an example website using [Bootstrap](https://getbootstrap.com/)
 
 ![](assets/images/screen1.png)
 
