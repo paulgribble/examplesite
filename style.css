@@ -1,0 +1,9 @@
+
+/* custom style for URL links */
+a {
+    color: #2D70C2;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
